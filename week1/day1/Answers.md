@@ -1,25 +1,26 @@
-Day 1 Answers
+# Day 1 Answers
 
-What problem does Salesforce solve?
+## 1. What problem does Salesforce solve?
 Salesforce helps companies manage customer data, sales, support, and business processes in one platform.
 
-What is CRM?
+## 2. What is CRM?
 CRM stands for Customer Relationship Management. It is used to manage customer interactions, sales, and support.
 
-What is an Object in Salesforce? Give one example.
-An Object in Salesforce is like a database table that stores data. Example: Account Object stores company/customer details.
+## 3. What is an Object in Salesforce? Give one example.
+An Object in Salesforce is like a database table that stores data.
+Example: Account Object stores company/customer details.
 
-Difference between Salesforce Admin and Developer
+## 4. Difference between Salesforce Admin and Developer
 
-Salesforce Admin
+### Salesforce Admin
+- Configures Salesforce
+- Creates reports and workflows
+- Manages users and security
 
-Configures Salesforce
-Creates reports and workflows
-Manages users and security
+### Salesforce Developer
+- Writes code using Apex and LWC
+- Builds custom applications
+- Creates advanced automation
 
-Salesforce Developer
-
-Writes code using Apex and LWC
-Builds custom applications
-Creates advanced automation
-Suggest one real-world application that can be built using Salesforce A Hospital Management System can be built using Salesforce to manage patients, appointments, doctors, and reports.
+## 5. Suggest one real-world application that can be built using Salesforce
+A Hospital Management System can be built using Salesforce to manage patients, appointments, doctors, and reports.
